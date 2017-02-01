@@ -13,15 +13,18 @@ la configuración final quedará así:
 
 ![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.02.44.png)
 
-En la siguiente pantalla deben ingresar uno a uno los campos dinámicos de acuerdo ala plantilla que se vaya a enviar, por ejemplo si la plantilla usa el campo nombre debemos crear un field llamado NOMBRE  de tipo text, , y luego hacer clic en create.
+En la siguiente pantalla deben ingresar uno a uno los campos dinámicos de acuerdo a la plantilla que se vaya a enviar, por ejemplo si la plantilla usa el campo nombre debemos crear un field llamado NOMBRE  de tipo text, y luego hacer clic en create.
 
 ![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.03.23.png)
+
 En la siguiente pantalla hacer clic en back to view data.
 
-En la siguiente pantalla  seleccionar la pestaña Databases, y seleccionar la base de datos recién creada,  y hacer click en  import -> update existing.
+En la siguiente pantalla  seleccionar la pestaña Databases, seleccionar la base de datos recién creada, y hacer click en  import -> update existing.
 
 ![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.05.19.png)
-En la siguiente pantalla (Select File) seleccionamos el csv a subir. escogemos la opción Comma-Separated Values (CSV) ,  y hacemos clic en next. 
+
+En la siguiente pantalla (Select File) seleccionamos el csv a subir. escogemos la opción Comma-Separated Values (CSV),  y hacemos clic en next. 
+
 en la siguiente pantalla (Define Format) hacer clic en next, 
 
 ![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.05.54.png)
