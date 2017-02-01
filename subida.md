@@ -12,12 +12,18 @@ En la siguiente pantalla (Select File) seleccionamos el csv a subir. escogemos l
 
 ![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.05.54.png)
 
-en la siguiente pantalla (Define Format) hacer clic en next
-
 ![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.07.04.png)
+
+en la siguiente pantalla (Define Format) hacer clic en next.
+
+![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.07.23.png)
 
 en la siguiente pantalla(Map fields) mapear los campos del archivo versus los campos de la base de datos. y hacer clic en next, en la siguiente pantalla confirmar.
 
-![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.07.23.png)
 ![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.08.03.png)
+
+en la siguiente pantalla (Define Format) hacer clic en next
+
 ![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.08.20.png)
+
+A este punto la base de datos habrá sido creada y llenada y ya es posible usarla para tomar un template para generar un envío masivo.
