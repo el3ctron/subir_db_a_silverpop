@@ -1,17 +1,20 @@
 
-Ingresar en la pestaña data, luego hacer clic en database->create  seleccionamos la opción single opt in ingresamos el nombre dela base de datos teniendo en cuenta el naming convention.
+Ingresar en la pestaña data, luego hacer clic en database->create
 
 ![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.03.27.png)
-El siguiente campo del formulario es la selección de la ruta donde se va a subir al bd,  sugerimos crear carpetas dentro de la carpeta qdata  
-
-luego seleccionamos restricted database, y luego Next.
-En la siguiente pantalla deben ingresar uno a uno los campos dinámicos de acuerdo ala plantilla que se vaya a enviar, por ejemplo si la plantilla usa el campo nombre debemos crear un field llamado NOMBRE  de tipo text, , y luego hacer clic en create.
+Seleccionamos la opción single opt in ingresamos el nombre dela base de datos teniendo en cuenta el naming convention.
 
 
 ![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.02.44.png)
-En la siguiente pantalla hacer clic en back to view data.
+El siguiente campo del formulario es la selección de la ruta donde se va a subir al bd,  sugerimos crear carpetas dentro de la carpeta qdata  
+
+luego seleccionamos restricted database, y luego Next.
+
+En la siguiente pantalla deben ingresar uno a uno los campos dinámicos de acuerdo ala plantilla que se vaya a enviar, por ejemplo si la plantilla usa el campo nombre debemos crear un field llamado NOMBRE  de tipo text, , y luego hacer clic en create.
 
 ![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.03.23.png)
+En la siguiente pantalla hacer clic en back to view data.
+
 En la siguiente pantalla  seleccionar la pestaña Databases, y seleccionar la base de datos recién creada,  y hacer click en  import -> update existing.
 
 ![Captura de pantalla 2017-01-19 11.43.18](fotos/Captura de pantalla 2017-02-01 10.05.19.png)
